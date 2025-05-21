@@ -5,3 +5,5 @@ Aportaciones
  ![alt text](image.png) 
 **Pacalla Cando William Adrian**
 ![Cambio de orden ascendente a descendente](TopMusical/img/descendente.png)
+ -**Christian Palma**
+ ![Imagen cambio](numero1.png) 
