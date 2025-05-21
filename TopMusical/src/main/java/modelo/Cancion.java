@@ -86,7 +86,7 @@ public class Cancion implements Comparable<Cancion> {
             ex.printStackTrace();
         }
 
-        /*  String s = "20,4,3,2,1,1,1,1,1,1,1,1";
+          /*String s = "20,4,3,2,1,1,1,1,1,1,1,1";
         Cancion c = new Cancion("Anti-Hero","TayLor Swift","antihero.jpg",1,1,1,12,new ArrayList<>(Arrays.asList(s.split(","))));
         lista.add(c);
         s = "15,10,7,3,2,1,2,3";
